@@ -1,0 +1,52 @@
+# Internship Tracker
+
+This is a simple Python project made to keep track of internship applications.
+
+I created this project while learning Python and wanted to use the concepts I learned in a practical project.
+
+## Features
+
+- Add internship application
+- View applications
+- Search application by company name
+- Update application status
+- Delete application
+- View application statistics
+- Save data using JSON
+
+## Information Stored
+                   
+For each application, the program stores:
+
+- Company name
+- Role
+- Deadline
+- Status
+
+## Technologies Used
+
+- Python
+- JSON
+- File Handling
+- Lists and Dictionaries
+
+## How to Run
+
+1. Download the project.
+2. Open the folder in VS Code.
+3. Make sure Python is installed.
+4. Run `main.py`.
+5. Select an option from the menu.
+
+## Project Status
+
+Completed.
+
+This project helped me understand how Python can be used to build a small real-world application.
+
+## Future Improvements
+
+- Add a GUI
+- Add deadline reminders
+- Improve statistics
+- Add more filtering options
